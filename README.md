@@ -1,1 +1,1 @@
-# telergam-to-roam-research
+Скрипт на Питоне для перевода заметок из Телеграм-канала в формат Roam Research
