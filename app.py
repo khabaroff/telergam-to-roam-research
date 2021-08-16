@@ -7,7 +7,7 @@ def custom_strftime(format, t):
     return t.strftime(format).replace('{S}', str(t.day) + suffix(t.day))
 
 # абсолютная ссылка для картинок
-pic_path="https://pics.phobaroff.com/_telega/"
+pic_path="https://pics.khabaroff.com/_telega/"
 
 # result.json отдает телеграм
 with open('result.json') as json_file:
